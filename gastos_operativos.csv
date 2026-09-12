@@ -1,0 +1,106 @@
+ID_Gasto,Fecha,Categoria,Importe
+1,2026-03-01,Alquiler,2362.04
+2,2026-03-01,Nominas,9615.09
+3,2026-03-01,Suministros,427.38
+4,2026-03-01,Software y licencias,195.36
+5,2026-03-01,Seguros,207.09
+103,2026-03-14,Laboratorio protesico,477.45
+49,2026-03-16,Marketing,439.23
+94,2026-03-18,Mantenimiento equipos,219.15
+54,2026-03-21,Formacion,497.94
+100,2026-03-27,Material fungible,447.26
+70,2026-03-29,Material fungible,577.56
+87,2026-03-30,Marketing,656.97
+6,2026-04-01,Alquiler,2232.87
+7,2026-04-01,Nominas,10483.9
+8,2026-04-01,Suministros,336.59
+9,2026-04-01,Software y licencias,162.21
+10,2026-04-01,Seguros,186.41
+81,2026-04-02,Mantenimiento equipos,789.66
+99,2026-04-04,Marketing,360.29
+98,2026-04-06,Marketing,558.21
+93,2026-04-08,Laboratorio protesico,1014.03
+62,2026-04-09,Mantenimiento equipos,904.31
+41,2026-04-12,Marketing,228.13
+59,2026-04-12,Formacion,233.94
+104,2026-04-16,Laboratorio protesico,971.78
+43,2026-04-18,Formacion,387.4
+47,2026-04-18,Marketing,230.97
+69,2026-04-18,Formacion,492.42
+44,2026-04-30,Mantenimiento equipos,625.07
+11,2026-05-01,Alquiler,2311.97
+12,2026-05-01,Nominas,10458.46
+13,2026-05-01,Suministros,334.78
+14,2026-05-01,Software y licencias,178.35
+15,2026-05-01,Seguros,187.38
+96,2026-05-04,Mantenimiento equipos,1195.18
+88,2026-05-08,Mantenimiento equipos,1164.3
+66,2026-05-13,Laboratorio protesico,472.84
+77,2026-05-16,Material fungible,259.68
+78,2026-05-16,Marketing,633.03
+71,2026-05-24,Formacion,398.43
+55,2026-05-27,Material fungible,174.52
+73,2026-05-27,Marketing,500.91
+63,2026-05-29,Material fungible,806.11
+16,2026-06-01,Alquiler,2328.1
+17,2026-06-01,Nominas,9932.13
+18,2026-06-01,Suministros,304.38
+19,2026-06-01,Software y licencias,192.99
+20,2026-06-01,Seguros,187.89
+40,2026-06-02,Material fungible,238.4
+72,2026-06-04,Material fungible,884.25
+90,2026-06-08,Marketing,483.12
+60,2026-06-15,Formacion,371.02
+50,2026-06-20,Material fungible,872.87
+82,2026-06-25,Laboratorio protesico,870.3
+75,2026-06-27,Material fungible,839.08
+52,2026-06-28,Mantenimiento equipos,875.36
+21,2026-07-01,Alquiler,2318.44
+22,2026-07-01,Nominas,9888.84
+23,2026-07-01,Suministros,405.71
+24,2026-07-01,Software y licencias,164.4
+25,2026-07-01,Seguros,210.09
+61,2026-07-04,Laboratorio protesico,910.26
+65,2026-07-04,Laboratorio protesico,1324.88
+95,2026-07-04,Material fungible,492.39
+64,2026-07-07,Laboratorio protesico,541.66
+84,2026-07-08,Marketing,765.18
+38,2026-07-09,Marketing,532.15
+86,2026-07-09,Laboratorio protesico,1025.29
+53,2026-07-17,Mantenimiento equipos,267.32
+79,2026-07-17,Mantenimiento equipos,239.23
+89,2026-07-18,Material fungible,351.4
+42,2026-07-22,Material fungible,441.35
+56,2026-07-29,Material fungible,366.5
+26,2026-08-01,Alquiler,2361.75
+27,2026-08-01,Nominas,9562.56
+28,2026-08-01,Suministros,315.26
+29,2026-08-01,Software y licencias,211.04
+30,2026-08-01,Seguros,187.48
+58,2026-08-01,Mantenimiento equipos,652.1
+46,2026-08-03,Material fungible,275.15
+57,2026-08-05,Mantenimiento equipos,911.62
+91,2026-08-05,Material fungible,789.32
+85,2026-08-09,Marketing,101.73
+37,2026-08-11,Mantenimiento equipos,207.94
+36,2026-08-13,Marketing,372.05
+39,2026-08-18,Marketing,513.12
+48,2026-08-19,Mantenimiento equipos,140.04
+80,2026-08-21,Marketing,389.96
+68,2026-08-22,Formacion,314.08
+97,2026-08-27,Material fungible,376.4
+51,2026-08-28,Formacion,347.48
+76,2026-08-28,Marketing,188.82
+102,2026-08-28,Mantenimiento equipos,182.14
+31,2026-09-01,Alquiler,2265.2
+32,2026-09-01,Nominas,9957.55
+33,2026-09-01,Suministros,339.35
+34,2026-09-01,Software y licencias,210.38
+35,2026-09-01,Seguros,201.11
+74,2026-09-03,Formacion,507.59
+92,2026-09-04,Marketing,633.58
+105,2026-09-04,Formacion,322.53
+67,2026-09-06,Formacion,275.32
+45,2026-09-07,Formacion,559.58
+83,2026-09-07,Marketing,755.44
+101,2026-09-09,Marketing,628.66

@@ -1,0 +1,16 @@
+ID_Tratamiento,Nombre,Categoria,Precio,Coste_Material
+1,Limpieza dental,Preventivo,60,8
+2,Revision + diagnostico,Preventivo,40,2
+3,Empaste composite,Conservadora,70,12
+4,Endodoncia unirradicular,Conservadora,180,25
+5,Endodoncia multirradicular,Conservadora,260,35
+6,Implante dental,Implantologia,1200,320
+7,Corona sobre implante,Implantologia,650,180
+8,Extraccion simple,Cirugia,50,6
+9,Extraccion cordal,Cirugia,120,15
+10,Ortodoncia invisible (cuota),Ortodoncia,150,20
+11,Ortodoncia brackets (cuota),Ortodoncia,90,14
+12,Blanqueamiento dental,Estetica,220,35
+13,Carilla de porcelana,Estetica,380,90
+14,Protesis removible,Protesis,450,110
+15,Higiene periodontal profunda,Periodoncia,140,22
